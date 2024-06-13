@@ -9,7 +9,7 @@ dataset = load_iris()
 
 feature_names = dataset.feature_names
 
-st.markdown("<span style='text-align: center; font-size: 44px;font-weight: bold;'>Iris Classification - Metric Coders<span>", unsafe_allow_html=True)
+st.markdown("<span style='text-align: center; font-size: 44px;font-weight: bold;'>Iris Classification using Random Forest Classifier - Metric Coders <span>", unsafe_allow_html=True)
 
 st.header("Input Features")
 
