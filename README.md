@@ -2,6 +2,8 @@
 
 Welcome to the world's largest collection of AI SaaS (Software as a Service) applications! This repository is a comprehensive list of various AI-driven SaaS tools available across multiple domains, aiming to provide a one-stop resource for developers, businesses, and enthusiasts created by Metric Coders.
 
+All our AI SaaS apps are full stack applications, readily deployable. They are written in Streamlit or JavaScript frameworks such as React or Next JS. The ML models are either generated using sklearn or GGUF models.
+
 ## Table of Contents
 
 - [Introduction](#introduction)
