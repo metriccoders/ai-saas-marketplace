@@ -10,8 +10,7 @@ Welcome to the world's largest collection of AI SaaS (Software as a Service) app
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
-- [Contact](#contact)
-
+  
 ## Introduction
 
 This repository hosts a curated list of AI SaaS applications, organized by category. Each entry includes a brief description, key features, and links to official websites or documentation. The goal is to create a centralized resource to help users discover and leverage the power of AI in various fields.
@@ -76,9 +75,6 @@ Please ensure your contributions adhere to our [contribution guidelines](CONTRIB
 
 This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
 
-## Contact
-
-For any questions, suggestions, or feedback, please open an issue on this repository or contact us at [your-email@example.com](mailto:your-email@example.com).
 
 ---
 
