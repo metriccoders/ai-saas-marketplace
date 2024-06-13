@@ -11,6 +11,7 @@ All our AI SaaS apps are full stack applications, readily deployable. They are w
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
+- [How to run](#how-to-run)
 - [License](#license)
   
 ## Introduction
@@ -72,6 +73,11 @@ We welcome contributions from the community to help expand and improve this coll
 4. **Submit a Pull Request**: Once your changes are complete, submit a pull request to the main repository for review.
 
 Please ensure your contributions adhere to our [contribution guidelines](CONTRIBUTING.md).
+
+## How to run
+
+If it is a streamlit app, run the following command:
+`streamlit run app.py`
 
 ## License
 
